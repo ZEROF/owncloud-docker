@@ -20,7 +20,7 @@ As well we need to create tls folder where all certificates we create will be se
 
 **Auto renew certificates**
 
-This is work in progress, because we didn't found a lot information about it. What we will try to use script made by Hugo and set crone job to renew certificates before their experience.
+This is work in progress, because I didn't found a lot information about it. What I will try is to use script made by Hugo and set crone job to renew certificates.
 
 As super user (sudo -s), we need to set crone job:
 
