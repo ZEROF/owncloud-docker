@@ -9,6 +9,7 @@ On just installed Debian 10 server we need to install PHP7 and few modules.
 Then move to super user session and get last script version from repository:
 
 ```sudo su && sudo -s```
+
 ```wget https://www.hiawatha-webserver.org/files/letsencrypt-2.1.tar.gz```
 
 After this setting Letsecrypt must be done from root directory and reading INSTALL file well and follow instructions.
