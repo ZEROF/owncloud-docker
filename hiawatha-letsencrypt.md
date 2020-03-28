@@ -27,4 +27,4 @@ As super user (sudo -s), we need to set crone job:
 
   and we add this line
 
-```@weekly pidof hiawatha && /usr/local/letsencrypt/letsencrypt renew restart >> /var/log/weekly.log 2>&1``
+```@weekly pidof hiawatha && /usr/local/letsencrypt/letsencrypt renew restart >> /var/log/weekly.log 2>&1```
