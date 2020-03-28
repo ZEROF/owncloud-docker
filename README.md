@@ -32,4 +32,6 @@ After setting all VARIABLES in .env file, we can start our Owncloud instance
 
 ```sudo apt-get update```
 
+```sudo apt install hiawatha```
+
 Check hiawatha-letsencrypt.md for setting Letsencrypt certificate (PoC).
